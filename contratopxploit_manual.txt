@@ -3,7 +3,7 @@ Manual Online
 
  Ayuda de la libreria ContratopXploit
 
-Function: contratopxploitmanual
+Function: manualctxp
     muestra este manual
  -------------------------
  -------------------------
