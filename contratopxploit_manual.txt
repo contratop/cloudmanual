@@ -1,0 +1,55 @@
+Manual Online
+
+
+ Ayuda de la libreria ContratopXploit
+
+Function: contratopxploitmanual
+    muestra este manual
+ -------------------------
+ -------------------------
+
+ Controles de airmon-ng:
+
+ Function: airmonenable (interface)
+ Habilita modo monitor para la interfaz especificada
+
+ Function: airmondisable (interfacemonitor)
+ Deshabilita el modo monitor para la interfaz especificada
+
+ Function: airmoncheck
+ Comprueba si airmon-ng puede trabajar correctamente
+ -------------------------
+ -------------------------
+
+ Controles de NetworkManager:
+
+ Function: rebootnm
+ Reinicia el servicio NetworkManager
+
+ Function: restorenm
+ Restaura la cofiguracion inicial post-hacking del Network Manager
+ Mejores uso al terminar el programa
+ -------------------------
+ -------------------------
+
+ Controles de Scan-Network:
+
+ Function: scanwps (interfacemonitor)
+ Escanea en busca de objetivos WPS
+
+ Function: ScanAll
+ realiza un escaneo a la red
+
+ Function mapinternal
+ mapea los dispositivos conectados a una red
+
+ Function:osdetect
+ Muestra el sistema operativo de esa IP
+ -------------------------
+ -------------------------
+
+ Controles de Reaver:
+ Function: reaverstand (interfacemonitor) (bssid)
+ Function: reaverchannel (interfacemonitor) (bssid) (channel)
+ Function: reaverpin (interfacemonitor) (bssid) (pin)
+ Function: reaverfull (interfacemonitor) (bssid) (channel) (pin)
